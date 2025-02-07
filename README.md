@@ -3,10 +3,10 @@ Gemini LLM App
 A Q&A chatbot built with Google Gemini LLM, LangChain, and Streamlit. This app allows users to ask questions and get responses powered by the Gemini language model.
 
 # Install Dependencies
-langchain
-google-generativeai
-streamlit
-python-dotenv
+1) langchain
+2) google-generativeai
+3) streamlit
+4) python-dotenv
 
 # Features
 Question Answering: Ask any question, and get an answer powered by the Gemini LLM.
